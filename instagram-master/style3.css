@@ -1,0 +1,68 @@
+body{
+	background-color: white;
+	text-align: center;
+}
+nav{
+	width: 100%;
+	height: 50px;
+}
+.insta, .letra{
+	height: 100%;
+}
+.insta{
+	/*width: 8%;*/
+	border-radius: 50%;
+	margin: 0;
+}
+.letra{
+	/*width: 10%;*/
+	margin: 0;
+	display: inline;
+}
+.pesquisa{
+	display: inline;
+}
+.section-perfil{
+	display: flex;
+	align-items: flex-start;
+}
+.block-perfil{
+}
+.alex{
+	width: 20%;
+	border-radius: 50%;
+}
+.h1{
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
+	text-align: right;
+}
+.pub{
+	font-family: serif;
+	font-size: 30px;
+	font-style: italic;
+	text-align: right;
+}
+.bio{
+	font-family: serif;
+	font-size: 30px;
+	font-style: italic;
+	text-align: right;
+}
+.fotos{
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+}
+.pc{
+	width: 200px;
+	height: 200px;
+}
+.enviar {
+	font-weight: bold;
+}
+.main{
+	display: inline;
+}
